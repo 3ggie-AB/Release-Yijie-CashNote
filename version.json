@@ -2,7 +2,9 @@
   "latest": "4.0.0",
   "versions": {
     "4.0.0": {
-      "name" : "Versi 4.0.0"
+      "release_note" : [
+        "Release All Fitur with Public Access, Account, Analize and Theme"
+      ],
       "downloads": {
         "android": {
           "universal": "https://github.com/3ggie-AB/Release-Yijie-CashNote/releases/download/Android/yijie-cashnote-universal-v4.0.0.apk",
