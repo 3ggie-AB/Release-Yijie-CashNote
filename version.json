@@ -1,21 +1,6 @@
 {
   "latest": "4.0.0",
   "versions": {
-    "Release": {
-      "name": "Versi Terbaru (4.0.0)"
-      "downloads": {
-        "android": {
-          "universal": "https://github.com/3ggie-AB/Release-Yijie-CashNote/releases/download/Android/yijie-cashnote-universal-v4.0.0.apk",
-          "arm64": "https://github.com/3ggie-AB/Release-Yijie-CashNote/releases/download/Android/yijie-cashnote-arm64-v4.0.0.apk",
-          "arm32": "https://github.com/3ggie-AB/Release-Yijie-CashNote/releases/download/Android/yijie-cashnote-arm32-v4.0.0.apk"
-        },
-        "windows": {
-          "exe": "#"
-        },
-        "linux": {
-          "appimage": "#"
-        }
-    },
     "4.0.0": {
       "name" : "Versi 4.0.0"
       "downloads": {
@@ -29,6 +14,9 @@
         },
         "linux": {
           "appimage": "#"
+        },
+        "macos": {
+          "app": "#"
         }
       }
     }
